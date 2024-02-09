@@ -1,14 +1,9 @@
 .DS_Store
 !/.ipynb_checkpoints
-
 /.idea/.gitignore
 /.idea/misc.xml
 /.idea/modules.xml
-/Figure_3/output_figure_3_A_Topic_10.png
-/Figure_3/output_figure_3_B_i_Topic_10.png
-/Figure_3/output_figure_3_B_ii_Topic_10.png
-/Figure_3/output_figure_3_B_iii_Topic_10.png
-/Figure_3/output_figure_3_B_iiii_Topic_10.png
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/Reproducibility_Task.iml
 /.idea/vcs.xml
+/.idea/workspace.xml
