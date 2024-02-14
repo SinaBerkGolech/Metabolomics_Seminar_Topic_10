@@ -20,13 +20,14 @@ From the paper entitled "Compendium of specialized metabolite biosynthetic diver
         * i
         * ii
 
-This repository contains efords to reproducing these figures from scrach. The dataset used in this study includes these resources from the paper;
+This repository contains efforts to reproduce these figures from scratch. The dataset used in this study includes these resources from the paper;
 
-* FIGURE 1[Source Data 1](https://static-content.springer.com/esm/art%3A10.1038%2Fs41564-022-01110-2/MediaObjects/41564_2022_1110_MOESM5_ESM.xlsx "Source Data 1").
-* FIGURE 3 [Source Data 3](https://static-content.springer.com/esm/art%3A10.1038%2Fs41564-022-01110-2/MediaObjects/41564_2022_1110_MOESM7_ESM.xlsx "Source Data 3").
-* FIGURE 5 [Source Data 5](https://static-content.springer.com/esm/art%3A10.1038%2Fs41564-022-01110-2/MediaObjects/41564_2022_1110_MOESM9_ESM.xlsx "Source Data 5").
+* FIGURE 1 -- Table_1 [Source Data 1](https://static-content.springer.com/esm/art%3A10.1038%2Fs41564-022-01110-2/MediaObjects/41564_2022_1110_MOESM5_ESM.xlsx "Source Data 1").
+* FIGURE 3 -- Table_3  [Source Data 3](https://static-content.springer.com/esm/art%3A10.1038%2Fs41564-022-01110-2/MediaObjects/41564_2022_1110_MOESM7_ESM.xlsx "Source Data 3").
+* FIGURE 5 -- Table_5 [Source Data 5](https://static-content.springer.com/esm/art%3A10.1038%2Fs41564-022-01110-2/MediaObjects/41564_2022_1110_MOESM9_ESM.xlsx "Source Data 5").
 
 
-> Gavriilidou, A., Kautsar, S.A., Zaburannyi, N. et al. Compendium of specialized metabolite biosynthetic diversity encoded in bacterial genomes. Nat Microbiol 7, 726–735 (2022). (https://doi.org/10.1038/s41564-022-01110-2)
-> Allen M, Poggiali D, Whitaker K et al. Raincloud plots: a multi-platform tool for robust data visualization [version 2; peer review: 2 approved]. Wellcome Open Res 2021, 4:63 (https://doi.org/10.12688/wellcomeopenres.15191.2)
+> [1] Gavriilidou, A., Kautsar, S.A., Zaburannyi, N. et al. Compendium of specialized metabolite biosynthetic diversity encoded in bacterial genomes. Nat Microbiol 7, 726–735 (2022). (https://doi.org/10.1038/s41564-022-01110-2)
+
+> [2] Allen M, Poggiali D, Whitaker K et al. Raincloud plots: a multi-platform tool for robust data visualization [version 2; peer review: 2 approved]. Wellcome Open Res 2021, 4:63 (https://doi.org/10.12688/wellcomeopenres.15191.2)
 
