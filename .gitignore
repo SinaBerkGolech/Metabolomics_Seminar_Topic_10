@@ -1,13 +1,6 @@
 .DS_Store
-!/.ipynb_checkpoints
-/.idea/.gitignore
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/Reproducibility_Task.iml
-/.idea/vcs.xml
-/.idea/workspace.xml
-/.idea
 .idea
-.idea/
-.ipynb_checkpoints/
+.ipynb_checkpoints
+/Figure_1/.ipynb_checkpoints/
+/Figure_3/.ipynb_checkpoints/
+/Figure_5/.ipynb_checkpoints/
