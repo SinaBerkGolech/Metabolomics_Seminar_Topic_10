@@ -7,3 +7,5 @@
 /Reproducibility_Task_Py_Enviorment/
 /.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace
 /.jupyter/desktop-settings.json
+.vscode/settings.json
+.vscode/
