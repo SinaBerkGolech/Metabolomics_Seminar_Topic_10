@@ -1,0 +1,12 @@
+# Python version 3.9.18; if any conflicts appears use the following procedure
+# install " https://github.com/pyenv/pyenv " 3.9.18 and " https://docs.python.org/3/library/venv.html " --> activate
+# then pip install -r requirements.txt
+matplotlib==3.8.3
+matplotlib-venn==0.11.10
+numpy==1.26.4
+pandas==2.2.1
+pillow==10.2.0
+ptitprince==0.2.7
+pyCirclize==1.3.0
+seaborn==0.13.2
+openpyxl==3.1.2

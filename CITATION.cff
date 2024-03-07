@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Golech"
+  given-names: "Sina"
+  orcid: "https://orcid.org/0000-0003-1443-1103"
+title: "Metabolomics_Seminar_Topic_10"
+version: 1.0.0
+doi: 10.5281/zenodo.10782893
+date-released: 2024-03-05
+url: "https://github.com/SinaBerkGolech/Metabolomics_Seminar_Topic_10/"
