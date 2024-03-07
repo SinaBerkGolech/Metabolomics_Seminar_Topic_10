@@ -36,13 +36,13 @@ Clone the repository
 git clone https://github.com/SinaBerkGolech/Metabolomics_Seminar_Topic_10.git --recursive
 ```
 
-Create the Python virtual environment.  Install virtualenv first if needed with `python3 -m pip install virtualenv`.
+Create the Python virtual environment.  Install virtualenv first if needed with `python3 -m pip install --user virtualenv`.
 ```
 cd Metabolomics_Seminar_Topic_10
 virtualenv -p python3 metabolomics_seminar_env
 source metabolomics_seminar_env/bin/activate
 python3 -m pip install -U setuptools pip wheel
-python3 -m pip install -U -r requirement.txt
+python3 -m pip install -U -r requirements.txt
 ```
 
 > [1] Gavriilidou, A., Kautsar, S.A., Zaburannyi, N. et al. Compendium of specialized metabolite biosynthetic diversity encoded in bacterial genomes. Nat Microbiol 7, 726–735 (2022). (https://doi.org/10.1038/s41564-022-01110-2)
